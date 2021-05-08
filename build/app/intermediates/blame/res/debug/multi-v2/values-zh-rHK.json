@@ -1,10 +1,27 @@
 {
     "logs": [
         {
-            "outputFile": "D:\\FlutterProjects\\emp_care\\emp_care\\build\\app\\intermediates\\incremental\\mergeDebugResources\\merged.dir\\values-zh-rHK\\values-zh-rHK.xml",
+            "outputFile": "/Users/yashmehta/AndroidProjects/emp_care_admin/build/app/intermediates/incremental/mergeDebugResources/merged.dir/values-zh-rHK/values-zh-rHK.xml",
             "map": [
                 {
-                    "source": "C:\\Users\\yash1\\.gradle\\caches\\transforms-2\\files-2.1\\b43d4e463f246f6565bcecd0920aa0a2\\jetified-firebase-messaging-20.0.1\\res\\values-zh-rHK\\values.xml",
+                    "source": "/Users/yashmehta/.gradle/caches/transforms-2/files-2.1/2824dc893e710ee7a219b52f147d50a3/jetified-play-services-basement-17.0.0/res/values-zh-rHK/values.xml",
+                    "from": {
+                        "startLines": "4",
+                        "startColumns": "0",
+                        "startOffsets": "251",
+                        "endColumns": "166",
+                        "endOffsets": "417"
+                    },
+                    "to": {
+                        "startLines": "10",
+                        "startColumns": "4",
+                        "startOffsets": "1127",
+                        "endColumns": "166",
+                        "endOffsets": "1289"
+                    }
+                },
+                {
+                    "source": "/Users/yashmehta/.gradle/caches/transforms-2/files-2.1/a23c2d070d22516ffee49404b6db0b21/jetified-firebase-messaging-20.0.1/res/values-zh-rHK/values.xml",
                     "from": {
                         "startLines": "4",
                         "startColumns": "0",
@@ -21,7 +38,7 @@
                     }
                 },
                 {
-                    "source": "C:\\Users\\yash1\\.gradle\\caches\\transforms-2\\files-2.1\\0a88e15c27fe8f45486868f55d363bed\\core-1.1.0\\res\\values-zh-rHK\\values-zh-rHK.xml",
+                    "source": "/Users/yashmehta/.gradle/caches/transforms-2/files-2.1/0a88e15c27fe8f45486868f55d363bed/core-1.1.0/res/values-zh-rHK/values-zh-rHK.xml",
                     "from": {
                         "startLines": "2",
                         "startColumns": "4",
@@ -38,7 +55,7 @@
                     }
                 },
                 {
-                    "source": "C:\\Users\\yash1\\.gradle\\caches\\transforms-2\\files-2.1\\11139722c985ff28aa4e11b218f92cf9\\play-services-base-17.1.0\\res\\values-zh-rHK\\values.xml",
+                    "source": "/Users/yashmehta/.gradle/caches/transforms-2/files-2.1/11139722c985ff28aa4e11b218f92cf9/play-services-base-17.1.0/res/values-zh-rHK/values.xml",
                     "from": {
                         "startLines": "4,5,6,7,8,9,10,11,12,13,14,15,16,17,18,19,20",
                         "startColumns": "0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0",
@@ -52,23 +69,6 @@
                         "startOffsets": "105,208,368,485,589,755,873,1005,1294,1463,1566,1726,1843,2009,2147,2232,2319",
                         "endColumns": "102,159,116,103,165,117,131,121,168,102,159,116,165,137,84,86,100",
                         "endOffsets": "203,363,480,584,750,868,1000,1122,1458,1561,1721,1838,2004,2142,2227,2314,2415"
-                    }
-                },
-                {
-                    "source": "C:\\Users\\yash1\\.gradle\\caches\\transforms-2\\files-2.1\\a7d80e1a4a2bf606c969751da8aa8f37\\jetified-play-services-basement-17.0.0\\res\\values-zh-rHK\\values.xml",
-                    "from": {
-                        "startLines": "4",
-                        "startColumns": "0",
-                        "startOffsets": "251",
-                        "endColumns": "166",
-                        "endOffsets": "417"
-                    },
-                    "to": {
-                        "startLines": "10",
-                        "startColumns": "4",
-                        "startOffsets": "1127",
-                        "endColumns": "166",
-                        "endOffsets": "1289"
                     }
                 }
             ]
