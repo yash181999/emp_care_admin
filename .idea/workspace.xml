@@ -1,0 +1,188 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="AndroidLogFilters">
+    <option name="TOOL_WINDOW_CONFIGURED_FILTER" value="Show only selected application" />
+  </component>
+  <component name="ChangeListManager">
+    <list default="true" id="52e0c94f-9c0a-4f6b-84bc-74e9d922bff3" name="Default Changelist" comment="" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="ExecutionTargetManager" SELECTED_TARGET="Nexus_6_API_28" />
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="Dart File" />
+      </list>
+    </option>
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+  </component>
+  <component name="ProjectId" id="1hrTEM7AYUnBnfh4z4MumFL7u0f" />
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
+  <component name="ProjectViewState">
+    <option name="abbreviatePackageNames" value="true" />
+    <option name="showExcludedFiles" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent">
+    <property name="dart.analysis.tool.window.force.activate" value="false" />
+    <property name="io.flutter.reload.alreadyRun" value="true" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$" />
+    <property name="settings.editor.selected.configurable" value="project.propVCSSupport.Mappings" />
+    <property name="show.migrate.to.gradle.popup" value="false" />
+  </component>
+  <component name="RecentsManager">
+    <key name="CopyFile.RECENT_KEYS">
+      <recent name="D:\FlutterProjects\emp_care\emp_care\lib\screens" />
+      <recent name="D:\FlutterProjects\emp_care\emp_care\assets\images" />
+      <recent name="D:\FlutterProjects\emp_care\emp_care\assets\icons" />
+      <recent name="D:\FlutterProjects\emp_care\emp_care\android\app" />
+    </key>
+  </component>
+  <component name="SvnConfiguration">
+    <configuration />
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="52e0c94f-9c0a-4f6b-84bc-74e9d922bff3" name="Default Changelist" comment="" />
+      <created>1600768098870</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1600768098870</updated>
+    </task>
+    <task id="LOCAL-00001" summary="Admin Pannel">
+      <created>1600929924443</created>
+      <option name="number" value="00001" />
+      <option name="presentableId" value="LOCAL-00001" />
+      <option name="project" value="LOCAL" />
+      <updated>1600929924444</updated>
+    </task>
+    <task id="LOCAL-00002" summary="Admin Pannel updated">
+      <created>1600963703852</created>
+      <option name="number" value="00002" />
+      <option name="presentableId" value="LOCAL-00002" />
+      <option name="project" value="LOCAL" />
+      <updated>1600963703853</updated>
+    </task>
+    <task id="LOCAL-00003" summary="udataed">
+      <created>1601020038790</created>
+      <option name="number" value="00003" />
+      <option name="presentableId" value="LOCAL-00003" />
+      <option name="project" value="LOCAL" />
+      <updated>1601020038791</updated>
+    </task>
+    <task id="LOCAL-00004" summary="udataed">
+      <created>1601047029942</created>
+      <option name="number" value="00004" />
+      <option name="presentableId" value="LOCAL-00004" />
+      <option name="project" value="LOCAL" />
+      <updated>1601047029942</updated>
+    </task>
+    <task id="LOCAL-00005" summary="Compltete APP">
+      <created>1601087421381</created>
+      <option name="number" value="00005" />
+      <option name="presentableId" value="LOCAL-00005" />
+      <option name="project" value="LOCAL" />
+      <updated>1601087421381</updated>
+    </task>
+    <task id="LOCAL-00006" summary="Compltete APP">
+      <created>1601095086817</created>
+      <option name="number" value="00006" />
+      <option name="presentableId" value="LOCAL-00006" />
+      <option name="project" value="LOCAL" />
+      <updated>1601095086817</updated>
+    </task>
+    <option name="localTasksCounter" value="7" />
+    <servers />
+  </component>
+  <component name="VcsManagerConfiguration">
+    <MESSAGE value="Admin Pannel" />
+    <MESSAGE value="Admin Pannel updated" />
+    <MESSAGE value="udataed" />
+    <MESSAGE value="Compltete APP" />
+    <option name="LAST_COMMIT_MESSAGE" value="Compltete APP" />
+  </component>
+  <component name="WindowStateProjectService">
+    <state x="605" y="-768" key="CommitChangelistDialog2" timestamp="1601095085568">
+      <screen x="294" y="-768" width="1366" height="728" />
+    </state>
+    <state x="350" y="0" key="CommitChangelistDialog2/0.0.1536.824/294.-768.1366.728@0.0.1536.824" timestamp="1601047027917" />
+    <state x="605" y="-768" key="CommitChangelistDialog2/0.0.1536.824/294.-768.1366.728@294.-768.1366.728" timestamp="1601095085568" />
+    <state x="782" y="-620" key="FileChooserDialogImpl" timestamp="1601091542156">
+      <screen x="294" y="-768" width="1366" height="728" />
+    </state>
+    <state x="549" y="167" key="FileChooserDialogImpl/0.0.1536.824/294.-768.1366.728@0.0.1536.824" timestamp="1600973647274" />
+    <state x="782" y="-620" key="FileChooserDialogImpl/0.0.1536.824/294.-768.1366.728@294.-768.1366.728" timestamp="1601091542156" />
+    <state width="1491" height="409" key="GridCell.Tab.0.bottom" timestamp="1601104626483">
+      <screen x="0" y="0" width="1536" height="824" />
+    </state>
+    <state width="1491" height="205" key="GridCell.Tab.0.bottom/0.0.1536.824/294.-768.1366.728@0.0.1536.824" timestamp="1601090636202" />
+    <state width="1323" height="205" key="GridCell.Tab.0.bottom/0.0.1536.824/294.-768.1366.728@294.-768.1366.728" timestamp="1601096308515" />
+    <state width="1491" height="409" key="GridCell.Tab.0.bottom/0.0.1536.824@0.0.1536.824" timestamp="1601104626483" />
+    <state width="1491" height="409" key="GridCell.Tab.0.center" timestamp="1601104626483">
+      <screen x="0" y="0" width="1536" height="824" />
+    </state>
+    <state width="1491" height="205" key="GridCell.Tab.0.center/0.0.1536.824/294.-768.1366.728@0.0.1536.824" timestamp="1601090636202" />
+    <state width="1323" height="205" key="GridCell.Tab.0.center/0.0.1536.824/294.-768.1366.728@294.-768.1366.728" timestamp="1601096308514" />
+    <state width="1491" height="409" key="GridCell.Tab.0.center/0.0.1536.824@0.0.1536.824" timestamp="1601104626483" />
+    <state width="1491" height="409" key="GridCell.Tab.0.left" timestamp="1601104626483">
+      <screen x="0" y="0" width="1536" height="824" />
+    </state>
+    <state width="1491" height="205" key="GridCell.Tab.0.left/0.0.1536.824/294.-768.1366.728@0.0.1536.824" timestamp="1601090636202" />
+    <state width="1323" height="205" key="GridCell.Tab.0.left/0.0.1536.824/294.-768.1366.728@294.-768.1366.728" timestamp="1601096308513" />
+    <state width="1491" height="409" key="GridCell.Tab.0.left/0.0.1536.824@0.0.1536.824" timestamp="1601104626483" />
+    <state width="1491" height="409" key="GridCell.Tab.0.right" timestamp="1601104626483">
+      <screen x="0" y="0" width="1536" height="824" />
+    </state>
+    <state width="1491" height="205" key="GridCell.Tab.0.right/0.0.1536.824/294.-768.1366.728@0.0.1536.824" timestamp="1601090636202" />
+    <state width="1323" height="205" key="GridCell.Tab.0.right/0.0.1536.824/294.-768.1366.728@294.-768.1366.728" timestamp="1601096308515" />
+    <state width="1491" height="409" key="GridCell.Tab.0.right/0.0.1536.824@0.0.1536.824" timestamp="1601104626483" />
+    <state x="478" y="-762" key="SettingsEditor" timestamp="1601095070862">
+      <screen x="294" y="-768" width="1366" height="728" />
+    </state>
+    <state x="478" y="-762" key="SettingsEditor/0.0.1536.824/294.-768.1366.728@294.-768.1366.728" timestamp="1601095070862" />
+    <state x="444" y="-642" key="Vcs.Push.Dialog.v2" timestamp="1601095282755">
+      <screen x="294" y="-768" width="1366" height="728" />
+    </state>
+    <state x="309" y="109" key="Vcs.Push.Dialog.v2/0.0.1536.824/294.-768.1366.728@0.0.1536.824" timestamp="1601047033895" />
+    <state x="444" y="-642" key="Vcs.Push.Dialog.v2/0.0.1536.824/294.-768.1366.728@294.-768.1366.728" timestamp="1601095282755" />
+    <state x="294" y="-768" width="738" height="909" key="find.popup" timestamp="1601019990810">
+      <screen x="294" y="-768" width="1366" height="728" />
+    </state>
+    <state x="294" y="-768" width="738" height="909" key="find.popup/0.0.1536.824/294.-768.1366.728@294.-768.1366.728" timestamp="1601019990810" />
+    <state x="70" y="192" key="run.anything.popup" timestamp="1601104040710">
+      <screen x="0" y="0" width="1536" height="824" />
+    </state>
+    <state x="70" y="192" key="run.anything.popup/0.0.1536.824/294.-768.1366.728@0.0.1536.824" timestamp="1600771710847" />
+    <state x="70" y="192" key="run.anything.popup/0.0.1536.824@0.0.1536.824" timestamp="1601104040710" />
+    <state x="640" y="-719" width="672" height="678" key="search.everywhere.popup" timestamp="1600886583615">
+      <screen x="294" y="-768" width="1366" height="728" />
+    </state>
+    <state x="640" y="-719" width="672" height="678" key="search.everywhere.popup/0.0.1536.824/294.-768.1366.728@294.-768.1366.728" timestamp="1600886583615" />
+  </component>
+  <component name="XDebuggerManager">
+    <breakpoint-manager>
+      <breakpoints>
+        <line-breakpoint enabled="true" suspend="THREAD" type="Dart">
+          <url>file://$PROJECT_DIR$/lib/color/color.dart</url>
+          <line>2</line>
+          <option name="timeStamp" value="1" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" suspend="THREAD" type="Dart">
+          <url>file://$PROJECT_DIR$/lib/screens/requests.dart</url>
+          <line>1</line>
+          <option name="timeStamp" value="2" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" suspend="THREAD" type="Dart">
+          <url>file://$PROJECT_DIR$/lib/screens/conference.dart</url>
+          <line>145</line>
+          <option name="timeStamp" value="3" />
+        </line-breakpoint>
+      </breakpoints>
+    </breakpoint-manager>
+  </component>
+</project>
